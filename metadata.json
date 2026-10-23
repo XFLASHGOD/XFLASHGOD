@@ -1,0 +1,6 @@
+{
+  "name": "AI Basics: Interactive Chatbot & LLM Explorer",
+  "description": "Interactive educational laboratory comparing Rule-Based chatbots and Large Language Models (LLMs) with live telemetry, tokenization explorer, context inspector, and code architecture walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
